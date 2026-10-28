@@ -1,6 +1,0 @@
-{
-  "plugins": [],
-  "categories": {},
-  "jsPlugins": ["../control-label-guard.mjs"],
-  "rules": { "control-label/has-name": "error" }
-}

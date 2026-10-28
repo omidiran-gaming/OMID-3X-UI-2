@@ -1,6 +1,0 @@
-{
-  "plugins": [],
-  "categories": {},
-  "jsPlugins": ["../icon-a11y-guard.mjs"],
-  "rules": { "antd-icon/explicit-a11y": "error" }
-}
